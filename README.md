@@ -1,16 +1,28 @@
-# blogapp
+# Blog App
 
-A new Flutter project.
+# About
+- An Blog app using Flutter maintaining Clean Architechture(3-layers).
 
-## Getting Started
+### Features
+- User Registration and Login with email 
+- Every State handle with Bloc
+- Upload blog 
+- Display All blog 
+- Display specific blog
+- internet connectivity handled
+- blog can be shown without internet
+- Sign Out
+... and many more
 
-This project is a starting point for a Flutter application.
+## Tech Used
 
-A few resources to get you started if this is your first Flutter project:
+ - Flutter
+ - Dart
+ - Bloc(state-management)
+ - get-it(dependency injection)
+ - supabase(backend-remote)
+ - Hive (backend-local)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Feedback
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you have any feedback, please reach out to me at mdhasanrakib65@gmail.com
