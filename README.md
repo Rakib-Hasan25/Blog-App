@@ -1,7 +1,7 @@
 # Blog App
 
 # About
-- An Blog app using Flutter maintaining Clean Architechture(3-layers).
+- An Blog app using Flutter maintaining Clean Architecture(3-layers).
 
 ### Features
 - User Registration and Login with email 
